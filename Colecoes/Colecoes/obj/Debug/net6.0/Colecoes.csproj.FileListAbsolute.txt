@@ -1,0 +1,15 @@
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\ProjetosDIO\Colecoes\Colecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
